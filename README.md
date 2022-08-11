@@ -51,7 +51,7 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect Me
+### 🤝🏻 &nbsp;Where to find me
 
 <p align="center">
 <a href="https://linkedin.com/in/nidal-bakir"><img src="https://img.shields.io/badge/-nidal_bakir-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
