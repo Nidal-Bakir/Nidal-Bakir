@@ -4,7 +4,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 ✨ &nbsp;I'm currently mobile app developer with +2 years of experience using Flutter\
-💡 &nbsp;I like to explore new technologies and develop software solutions, design patterns and quick hacks.\
+💡 &nbsp;I like to explore new technologies, design patterns and develop software solutions.\
 🎓 &nbsp;I'm currently studying software engineering at the University of Albaath.\
 🌱 &nbsp;I'm on track for learning more about Software Architect, Systems Design and Backend Engineering.\
 ✍️ &nbsp;In my free time, I read books about software, Contribute to open source projects and maintain flutter packages (not released yet!!).\
