@@ -8,7 +8,7 @@
 🎓 &nbsp;I'm currently studying software engineering at the University of Albaath.\
 🌱 &nbsp;I'm on track for learning more about Software Architect, Systems Design and Backend Engineering.\
 ✍️ &nbsp;In my free time, I read books about software, Contribute to open source projects and maintain flutter packages (not released yet!!).\
-💬 &nbsp;Feel free to reach out to me for consulting and volunteering or just for some interesting discussion.\
+💬 &nbsp;Feel free to reach out for consulting and volunteering or just for some interesting discussion.\
 ✉️ &nbsp;You can send me an email at nidal.bakir.edu@gmail.com! I'll try to respond as soon as I can.
 <!-- 📄 &nbsp;Please have a look at my [Resume]() for more details about me. I'm open to feedback and suggestions! -->
 
