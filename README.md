@@ -43,6 +43,14 @@
 ![XD](https://img.shields.io/badge/-Adobe%20XD-05122A?style=flat&logo=adobe-xd)&nbsp;
 ![figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 
+### 📚️ &nbsp;Books I enjoyed reading
+
+![NoSQL Distilled](https://img.shields.io/badge/-NoSQL%20Distilled-05122A?style=flat)&nbsp;
+![Design Patterns: Elements of Reusable Object‑Oriented](https://img.shields.io/badge/-Design%20Patterns:%20Elements%20of%20Reusable%20Object‑Oriented-05122A?style=flat)\
+![Head First Design Patterns](https://img.shields.io/badge/-Head%20First%20Design%20Patterns-05122A?style=flat)&nbsp;
+![Software Architecture for Developers](https://img.shields.io/badge/-Software%20Architecture%20for%20Developers%20Vol%201%20Technical%20leadership%20and%20the%20balance%20with%20agility-05122A?style=flat)\
+![Clean Code by Robert C Martin](https://img.shields.io/badge/-Clean%20Code%20by%20Robert%20C%20Martin-05122A?style=flat)&nbsp;
+  
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
