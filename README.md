@@ -7,7 +7,8 @@
 💡 &nbsp;I like to explore new technologies, design patterns and develop software solutions.\
 🎓 &nbsp;I'm currently studying software engineering at the University of Albaath.\
 🌱 &nbsp;I'm on track for learning more about Software Architect, Systems Design and Backend Engineering.\
-✍️ &nbsp;In my free time, I read books about software, Contribute to open source projects and maintain flutter packages (not released yet!!).\
+✍️ &nbsp;In my free time, I read books about software, Contribute to open source projects and maintain flutter packages.\
+🏹 &nbsp;Maintainer and Founder of <a href="https://github.com/mobile-open-chat"> mobile open chat</a> org.\
 💬 &nbsp;Feel free to reach out for consulting and volunteering or just for some interesting discussion.\
 ✉️ &nbsp;You can send me an email at nidal.bakir.edu@gmail.com! I'll try to respond as soon as I can.\
 🙌 &nbsp;By the way take a look at my<a href="https://gist.github.com/Nidal-Bakir"> GitHub-gist</a> surely you will find something useful.
