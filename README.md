@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-✨ &nbsp;I'm currently mobile app developer with +2 years of experience using Flutter.\
+✨ &nbsp;I'm currently mobile app developer with +3 years of experience using Flutter.\
 🏹 &nbsp;Determinded to take the <a href="https://github.com/parse-community/Parse-SDK-Flutter">Parse-SDK-Flutter</a>
 to next level.\
 💡 &nbsp;I like to explore new technologies, design patterns and develop software solutions.\
