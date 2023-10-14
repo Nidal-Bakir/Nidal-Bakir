@@ -3,13 +3,14 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-✨ &nbsp;I'm currently mobile app developer with +3 years of experience using Flutter.\
-🏹 &nbsp;Determinded to take the <a href="https://github.com/parse-community/Parse-SDK-Flutter">Parse-SDK-Flutter</a>
+✨ &nbsp;I'm a mobile app developer with +3 years of experience using <a href="https://flutter.dev/">Flutter.</a>\
+🏹 &nbsp;I'm also learning to develop server services and backends using <a href="https://go.dev/">Go lang.</a>\
+🏹 &nbsp;Determined to take the <a href="https://github.com/parse-community/Parse-SDK-Flutter">Parse-SDK-Flutter</a>
 to next level.\
-💡 &nbsp;I like to explore new technologies, design patterns and develop software solutions.\
-🎓 &nbsp;I'm currently studying software engineering at the University of Albaath.\
-🌱 &nbsp;I'm on track for learning more about Software Architect, Systems Design and Backend Engineering.\
-✍️ &nbsp;In my free time, I read books about software, Contribute to open source projects and maintain flutter packages.\
+💡 &nbsp;I like exploring new technologies, designing patterns, and developing software solutions.\
+🎓 &nbsp;I'm studying software engineering at the University of Albaath.\
+🌱 &nbsp;I'm on track to learning more about Software Architect, Systems Design, and Backend Engineering.\
+✍️ &nbsp;In my free time, I read books about software, Contribute to open-source projects, and maintain Flutter packages.\
 🏹 &nbsp;Maintainer and Founder of <a href="https://github.com/mobile-open-chat"> mobile open chat</a> org.\
 💬 &nbsp;Feel free to reach out for consulting and volunteering or just for some interesting discussion.\
 ✉️ &nbsp;You can send me an email at nidal.bakir.edu@gmail.com! I'll try to respond as soon as I can.\
@@ -21,7 +22,8 @@ to next level.\
 ### 🛠 &nbsp;Tech Stack
 
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart&logoColor=1572B6)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter&logoColor=1572B6)\
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter&logoColor=1572B6)
+![Go lnag](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&logoColor=1572B6)\
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)\
