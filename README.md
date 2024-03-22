@@ -8,7 +8,6 @@
 🏹 &nbsp;Determined to take the <a href="https://github.com/parse-community/Parse-SDK-Flutter">Parse-SDK-Flutter</a>
 to next level.\
 💡 &nbsp;I like exploring new technologies, designing patterns, and developing software solutions.\
-🎓 &nbsp;I'm studying software engineering at the University of Albaath.\
 🌱 &nbsp;I'm on track to learning more about Software Architect, Systems Design, and Backend Engineering.\
 ✍️ &nbsp;In my free time, I read books about software, Contribute to open-source projects, and maintain Flutter packages.\
 🏹 &nbsp;Maintainer and Founder of <a href="https://github.com/mobile-open-chat"> mobile open chat</a> org.\
