@@ -42,10 +42,6 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=GitLab)&nbsp;
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-05122A?style=flat&logo=Bitbucket)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Android studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-![Vim](https://img.shields.io/badge/-Vim-05122A?style=flat&logo=vim&logoColor=3DDC84)\
-![XD](https://img.shields.io/badge/-Adobe%20XD-05122A?style=flat&logo=adobe-xd)&nbsp;
 ![figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 
 ### 📚️ &nbsp;Books I enjoyed reading
