@@ -50,9 +50,9 @@
 <a href="https://www.amazon.com/_/dp/1098139291">![Learning Go_ An Idiomatic Approach to Real-World Go Programming](https://img.shields.io/badge/-Learning%20Go%20An%20Idiomatic%20Approach%20to%20Real%20World%20Go%20Programming%20By%20Jon%20Bodner-05122A?style=flat)</a>
 <a href="https://www.amazon.com/_/dp/0201633612">![Design Patterns: Elements of Reusable Object‑Oriented](https://img.shields.io/badge/-Design%20Patterns:%20Elements%20of%20Reusable%20Object‑Oriented-05122A?style=flat)</a>
 <a href="https://www.amazon.com/_/dp/0596007124">![Head First Design Patterns](https://img.shields.io/badge/-Head%20First%20Design%20Patterns-05122A?style=flat)</a>
-<a href="https://leanpub.com/software-architecture-for-developers">![Software Architecture for Developers](https://img.shields.io/badge/-Software%20Architecture%20for%20Developers%20Vol%201%20Technical%20leadership%20and%20the%20balance%20with%20agility%20By%20Simon%20Brown-05122A?style=flat)</a>
 <a href="https://www.amazon.com/_/dp/0132350882">![Clean Code by Robert C Martin](https://img.shields.io/badge/-Clean%20Code%20by%20Robert%20C%20Martin-05122A?style=flat)</a>
-  
+<a href="https://leanpub.com/software-architecture-for-developers">![Software Architecture for Developers](https://img.shields.io/badge/-Software%20Architecture%20for%20Developers%20Vol%201%20Technical%20leadership%20and%20the%20balance%20with%20agility%20By%20Simon%20Brown-05122A?style=flat)</a>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
