@@ -7,12 +7,12 @@
 🏹 &nbsp;I'm also learning to develop server services and backends using <a href="https://go.dev/">Go lang.</a>\
 💡 &nbsp;I like exploring new technologies, designing patterns, and developing software solutions.\
 🌱 &nbsp;I'm on track to learning more about Software Architect, Systems Design, and Backend Engineering.\
-✍️ &nbsp;In my free time, I read books about software, Contribute to open-source projects, and maintain Flutter packages.\
+✍️ &nbsp;I read books about software, contribute to open-source projects, and maintain Flutter packages in my free time.\
 🏹 &nbsp;Maintainer and Founder of <a href="https://github.com/mobile-open-chat"> mobile open chat</a> org.\
-💬 &nbsp;Feel free to reach out for consulting and volunteering or just for some interesting discussion.\
+💬 &nbsp;Feel free to reach out for consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can send me an email at nidal.bakir.edu@gmail.com! I'll try to respond as soon as I can.\
-🙌 &nbsp;By the way take a look at my<a href="https://gist.github.com/Nidal-Bakir"> GitHub-gist</a> surely you will find something useful.
-<!-- 📄 &nbsp;Please have a look at my [Resume]() for more details about me. I'm open to feedback and suggestions! -->
+🙌 &nbsp;By the way take a look at my<a href="https://gist.github.com/Nidal-Bakir"> GitHub-gist</a> surely you will find something useful.\
+📄 &nbsp;Have a look at my [Resume](https://github.com/Nidal-Bakir/Nidal-Bakir/blob/main/assets/Nidal-Bakir-no-num.pdf) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="./assets/night-coding.gif" align="right"/>
 
