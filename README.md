@@ -68,5 +68,5 @@
 <a href="https://linkedin.com/in/nidal-bakir"><img src="https://img.shields.io/badge/-nidal_bakir-0077B5?style=flat&logoColor=red&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAACXBIWXMAAA9hAAAPYQGoP6dpAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAUhJREFUSInt1aFLZFEcxfHPDGszaF2jYFQQFBeDFoPZJoLVICoW/wWTSWE3GkyCQdGyLKxgFQRBsIhFhGVnTBaF+RlmhLvXWdTxveaBG8654fvu/Z33noiYj4halKO/ETFXiYg6epWneiUiokQA+NImO8FPjGG6EEp2h78johoRWmuniMFUM+YhGonfL+IgOWQk86NFQNoN/geOMI5V7ef2YUjhyp/yHJuJn8UELrGR5Iu4xzrONK99ECuYfEHJinCQNEtEbLXyX1m+EBFdWabVzIPX2vVWfcdjm7yBtTzsFAIz2NYsR6oL3KRBp80Zwy4qLX+NvWT/Fn3PptOTTCUA+Jbt11LTKaQn892ZfygCUnnF/6OPDP7N+oS8S/kH8lbzz/isYfTjD46TfAgDib/CaeLH8fV/kFJUxV3JjHoVy7I3tEDVsPQEDEdVp1INxB4AAAAASUVORK5CYII="/></a>
 <a href="mailto:nidal.bakir.edu@gmail.com"><img src="https://img.shields.io/badge/-nidal.bakir.edu@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/nidal.127.0.0.1"><img src="https://img.shields.io/badge/-@nidal.127.0.0.1-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://twitter.com/nidalbak"><img src="https://img.shields.io/badge/-@nidalbak-1769FF?style=flat&logo=twitter&logoColor=white"/></a>
+<a href="https://twitter.com/nidalbak"><img src="https://img.shields.io/badge/-@nidalbak-1769FF?style=flat&logo=x&logoColor=white"/></a>
 </p>
