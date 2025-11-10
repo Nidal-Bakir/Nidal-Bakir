@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-✨ &nbsp;I'm a mobile app developer with +3 years of experience using <a href="https://flutter.dev/">Flutter.</a>\
+✨ &nbsp;I'm a mobile app developer with +4 years of experience using <a href="https://flutter.dev/">Flutter.</a>\
 🏹 &nbsp;I'm also learning to develop server services and backends using <a href="https://go.dev/">Go lang.</a>\
 💡 &nbsp;I like exploring new technologies, designing patterns, and developing software solutions.\
 🌱 &nbsp;I'm on track to learning more about Software Architect, Systems Design, and Backend Engineering.\
