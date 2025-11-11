@@ -7,7 +7,7 @@
 🏹 &nbsp;Currently, I’m expanding into backend development and server-side engineering with <a href="https://go.dev/">Go(Golang).</a>\
 💡 &nbsp;I enjoy exploring new technologies, studying design patterns, and crafting scalable software solutions.\
 🌱 &nbsp;My current focus is on software architecture, systems design, and backend engineering.\
-✍️ &nbsp;In my free time, I read software engineering books, contribute to open-source projects, and maintain several Flutter packages.\
+✍️ &nbsp;In my free time, I read software books, contribute to open-source, and maintain Flutter packages.\
 🏹 &nbsp;I’m also the founder and maintainer of the <a href="https://github.com/mobile-open-chat"> mobile open chat</a> organization.\
 💬 &nbsp;I'm always open to consulting, collaboration, or meaningful discussions about software and architecture.\
 ✉️ &nbsp;You can reach me at <a href="mailto:nidal.bakir.edu@gmail.com?subject=GitHub%20Inquiry">nidal.bakir.edu@gmail.com</a> — I’ll respond as soon as I can.\
