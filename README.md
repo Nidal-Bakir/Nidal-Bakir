@@ -3,16 +3,18 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-✨ &nbsp;I'm a mobile app developer with +4 years of experience using <a href="https://flutter.dev/">Flutter.</a>\
-🏹 &nbsp;I'm also learning to develop server services and backends using <a href="https://go.dev/">Go lang.</a>\
-💡 &nbsp;I like exploring new technologies, designing patterns, and developing software solutions.\
-🌱 &nbsp;I'm on track to learning more about Software Architect, Systems Design, and Backend Engineering.\
-✍️ &nbsp;I read books about software, contribute to open-source projects, and maintain Flutter packages in my free time.\
-🏹 &nbsp;Maintainer and Founder of <a href="https://github.com/mobile-open-chat"> mobile open chat</a> org.\
-💬 &nbsp;Feel free to reach out for consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can send me an email at nidal.bakir.edu@gmail.com! I'll try to respond as soon as I can.\
-🙌 &nbsp;By the way take a look at my<a href="https://gist.github.com/Nidal-Bakir"> GitHub-gist</a> surely you will find something useful.\
-📄 &nbsp;Have a look at my [Resume](https://github.com/Nidal-Bakir/Nidal-Bakir/blob/main/assets/Nidal-Bakir-no-num.pdf) for more details about me. I'm open to feedback and suggestions!
+✨ &nbsp;I'm a mobile app developer with over 4 years of experience building cross-platform applications using <a href="https://flutter.dev/">Flutter.</a>\
+🏹 &nbsp;Currently, I’m expanding into backend development and server-side engineering with <a href="https://go.dev/">Go(Golang).</a>\
+💡 &nbsp;I enjoy exploring new technologies, studying design patterns, and crafting scalable software solutions.\
+🌱 &nbsp;My current focus is on software architecture, systems design, and backend engineering.\
+✍️ &nbsp;In my free time, I read software engineering books, contribute to open-source projects, and maintain several Flutter packages.\
+🏹 &nbsp;I’m also the founder and maintainer of the <a href="https://github.com/mobile-open-chat"> mobile open chat</a> organization.\
+💬 &nbsp;I'm always open to consulting, collaboration, or meaningful discussions about software and architecture.\
+✉️ &nbsp;You can reach me at <a href="mailto:nidal.bakir.edu@gmail.com?subject=GitHub%20Inquiry">nidal.bakir.edu@gmail.com</a> — I’ll respond as soon as I can.\
+🙌 &nbsp;Check out my <a href="https://gist.github.com/Nidal-Bakir">GitHub-gist</a> — you might find something useful there.\
+📄 &nbsp;Take a look at my CVs for more details — feedback is always welcome!  
+- [Flutter Developer CV](https://github.com/Nidal-Bakir/Nidal-Bakir/blob/main/assets/Nidal-Bakir-Flutter-Developer.pdf)
+- [Backend Engineer CV](https://github.com/Nidal-Bakir/Nidal-Bakir/blob/main/assets/Nidal-Bakir-Backend-Engineer.pdf)
 
 <img alt="Night Coding" src="./assets/night-coding.gif" align="right"/>
 
