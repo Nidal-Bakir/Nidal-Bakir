@@ -5,12 +5,12 @@
 
 🚀 &nbsp;I'm a Full-Stack Engineer with 4+ years of experience building production-ready cross-platform mobile apps using <a href="https://flutter.dev/">Flutter</a>.  
 📱 &nbsp;I design and ship scalable, maintainable apps with solid, clean architecture and performance-focused implementations.  
-⚙️ On the backend, I build reliable and scalable services using <a href="https://go.dev/">Go (Golang)</a>, focusing on clean APIs, scaling, and robust system design.  
-🗄️ &nbsp;I work extensively with PostgreSQL, Redis, SQL & NoSQL databases, caching strategies, Docker, and Linux-based environments.  
-🌐 &nbsp;Currently expanding into frontend dev with TypeScript, React, and Tailwind to strengthen my end-to-end engineering expertise.  
-🏗️ &nbsp;My core focus areas include software architecture, systems design, performance optimization, and scalable distributed systems.  
+⚙️ On the backend, I build reliable and scalable services using <a href="https://go.dev/">Go (Golang)</a>, focusing on clean APIs, and scaling.
+🗄️ &nbsp;I work extensively with PostgreSQL, Redis, SQL & NoSQL databases, Docker, and Linux-based environments.  
+🌐 &nbsp;Currently expanding into frontend dev with TypeScript, React, and Tailwind to strengthen my end-to-end expertise.  
+🏗️ &nbsp;My core focus: software architecture, systems design, performance optimization, and scalable distributed systems. 
 🔓 &nbsp;Founder and maintainer of the <a href="https://github.com/mobile-open-chat">Mobile Open Chat</a> organization.  
-📚 &nbsp;I actively study advanced engineering concepts, contribute to open-source projects, and continuously refine my technical craft.  
+📚 &nbsp;I actively study advanced engineering, contribute to open-source, and refine my technical craft.  
 💬 &nbsp;Open to consulting, collaboration, and meaningful discussions about building production-grade software systems.  
 ✉️ &nbsp;You can reach me at <a href="mailto:nidal.bakir.edu@gmail.com?subject=GitHub%20Inquiry">nidal.bakir.edu@gmail.com</a> — I’ll respond as soon as I can.  
 🙌 &nbsp;Check out my <a href="https://gist.github.com/Nidal-Bakir">GitHub-gist</a> — you might find something useful there.  
