@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🚀 &nbsp;I'm a Full-Stack Engineer experienced in building cross-platform mobile apps using <a href="https://flutter.dev/">Flutter</a> and backend services using <a href="https://go.dev/">Golang</a>.
+🚀 &nbsp;I'm a Full-Stack Engineer experienced in cross-platform mobile apps using <a href="https://flutter.dev/">Flutter</a> and backend services using <a href="https://go.dev/">Golang</a>.
 📱 &nbsp;I design and ship scalable, maintainable apps with solid, clean architecture and performance-focused implementations.  
 ⚙️ &nbsp;On the backend, I build reliable and scalable services using <a href="https://go.dev/">Go (Golang)</a>, focusing on clean APIs and scaling.  
 🗄️ &nbsp;I work extensively with PostgreSQL, Redis, SQL & NoSQL databases, Docker, and Linux-based environments.  
