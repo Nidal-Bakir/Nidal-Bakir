@@ -5,7 +5,7 @@
 
 🚀 &nbsp;I'm a Full-Stack Engineer with experience building cross-platform mobile apps with <a href="https://flutter.dev/">Flutter</a> and backend services with <a href="https://go.dev/">Golang</a>.  
 📱 &nbsp;I design and ship scalable, maintainable apps with solid, clean architecture and performance-focused implementations.  
-⚙️ &nbsp;On the backend, I build reliable and scalable services using <a href="https://go.dev/">Go (Golang)</a>, focusing on clean APIs and scaling.  
+⚙️ &nbsp;On the backend, I build reliable and scalable services using <a href="https://go.dev/">Golang</a>, focusing on clean APIs and scaling.  
 🗄️ &nbsp;I work extensively with PostgreSQL, Redis, SQL & NoSQL databases, Docker, and Linux-based environments.  
 🌐 &nbsp;Currently expanding into frontend dev with TypeScript, React, and Tailwind to strengthen my end-to-end expertise.  
 🏗️ &nbsp;My core focus: software architecture, systems design, performance optimization, and scalable distributed systems.  
